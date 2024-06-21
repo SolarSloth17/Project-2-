@@ -6,6 +6,8 @@
     color: white;
     }
 img {
-    border-radius: 8px;
-    width: 150px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
     }
