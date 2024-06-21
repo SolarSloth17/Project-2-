@@ -1,16 +1,15 @@
 
  body {
-    background-color: #05056d;
     font-family: sans-serif;
     font-size: 2em;
     color: white;
     }
 .about {
-    color: blue;
+    background-color: blue;
     }
-.facts {content: #2828f3;
+.facts {background-color: #2828f3;
 }
-.contact {color: hsl(240, 89%, 67%);}
+.contact {background-color: hsl(240, 89%, 67%);}
 img {
     display: block;
     margin-left: auto;
